@@ -1,3 +1,1 @@
-verizondigital/kubectl-flame:v0.2.4-python
 diyaps/nightscout
-sysyc/ns-docker
